@@ -1,3 +1,7 @@
 *.out
 *.vcd
 .virtualenv
+
+/*_result/
+/*_results/
+
